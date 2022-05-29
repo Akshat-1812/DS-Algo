@@ -1,0 +1,868 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Flatten",
+            "request": "launch",
+            "mainClass": "Flatten",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortLL",
+            "request": "launch",
+            "mainClass": "MergeSortLL",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloneLinkedListBabbar",
+            "request": "launch",
+            "mainClass": "CloneLinkedListBabbar",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloneLinkedList",
+            "request": "launch",
+            "mainClass": "CloneLinkedList",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSorted",
+            "request": "launch",
+            "mainClass": "MergeTwoSorted",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortThree",
+            "request": "launch",
+            "mainClass": "SortThree",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoCircularSplit",
+            "request": "launch",
+            "mainClass": "TwoCircularSplit",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnsortedDuplicates",
+            "request": "launch",
+            "mainClass": "UnsortedDuplicates",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicateSorted",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateSorted",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectAndRemoveLoop",
+            "request": "launch",
+            "mainClass": "DetectAndRemoveLoop",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeginningOfLoop",
+            "request": "launch",
+            "mainClass": "BeginningOfLoop",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectLoop",
+            "request": "launch",
+            "mainClass": "DetectLoop",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckCircular",
+            "request": "launch",
+            "mainClass": "CheckCircular",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseInK",
+            "request": "launch",
+            "mainClass": "ReverseInK",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "ReverseLinkedList",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch WatchSol",
+            "request": "launch",
+            "mainClass": "WatchSol",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ar",
+            "request": "launch",
+            "mainClass": "Ar",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImpLink",
+            "request": "launch",
+            "mainClass": "ImpLink",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BSearchInfinite",
+            "request": "launch",
+            "mainClass": "BSearchInfinite",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AggresiveCows",
+            "request": "launch",
+            "mainClass": "AggresiveCows",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Animal",
+            "request": "launch",
+            "mainClass": "Animal",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookAllocation",
+            "request": "launch",
+            "mainClass": "BookAllocation",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckRotation",
+            "request": "launch",
+            "mainClass": "CheckRotation",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CommonChar",
+            "request": "launch",
+            "mainClass": "CommonChar",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountLetter",
+            "request": "launch",
+            "mainClass": "CountLetter",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountOne",
+            "request": "launch",
+            "mainClass": "CountOne",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclicallyRotate",
+            "request": "launch",
+            "mainClass": "CyclicallyRotate",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Eko",
+            "request": "launch",
+            "mainClass": "Eko",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicateIncZero",
+            "request": "launch",
+            "mainClass": "FindDuplicateIncZero",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstOccurance",
+            "request": "launch",
+            "mainClass": "FirstOccurance",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImpLinkedList",
+            "request": "launch",
+            "mainClass": "ImpLinkedList",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImpStack",
+            "request": "launch",
+            "mainClass": "ImpStack",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertB",
+            "request": "launch",
+            "mainClass": "InsertB",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertEnd",
+            "request": "launch",
+            "mainClass": "InsertEnd",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertPos",
+            "request": "launch",
+            "mainClass": "InsertPos",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch KeypadTyping",
+            "request": "launch",
+            "mainClass": "KeypadTyping",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastOccurance",
+            "request": "launch",
+            "mainClass": "LastOccurance",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Left",
+            "request": "launch",
+            "mainClass": "Left",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftRotate",
+            "request": "launch",
+            "mainClass": "LeftRotate",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanMat",
+            "request": "launch",
+            "mainClass": "Matrix.BooleanMat",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boundary",
+            "request": "launch",
+            "mainClass": "Matrix.Boundary",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Determinant",
+            "request": "launch",
+            "mainClass": "Matrix.Determinant",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixSearch2",
+            "request": "launch",
+            "mainClass": "Matrix.MatrixSearch2",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseCol",
+            "request": "launch",
+            "mainClass": "Matrix.ReverseCol",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseRow",
+            "request": "launch",
+            "mainClass": "Matrix.ReverseRow",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateLeft",
+            "request": "launch",
+            "mainClass": "Matrix.RotateLeft",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateLeft2",
+            "request": "launch",
+            "mainClass": "Matrix.RotateLeft2",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RowSum",
+            "request": "launch",
+            "mainClass": "Matrix.RowSum",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search2D",
+            "request": "launch",
+            "mainClass": "Matrix.Search2D",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SnakeTraversal",
+            "request": "launch",
+            "mainClass": "Matrix.SnakeTraversal",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SprialPrint",
+            "request": "launch",
+            "mainClass": "Matrix.SprialPrint",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Transpose",
+            "request": "launch",
+            "mainClass": "Matrix.Transpose",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wave",
+            "request": "launch",
+            "mainClass": "Matrix.Wave",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxCircularSubArray",
+            "request": "launch",
+            "mainClass": "MaxCircularSubArray",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxConsecutiveOnes",
+            "request": "launch",
+            "mainClass": "MaxConsecutiveOnes",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxElementDiff",
+            "request": "launch",
+            "mainClass": "MaxElementDiff",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxEvenOddSub",
+            "request": "launch",
+            "mainClass": "MaxEvenOddSub",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubArray",
+            "request": "launch",
+            "mainClass": "MaxSubArray",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinConsecutiveFlips",
+            "request": "launch",
+            "mainClass": "MinConsecutiveFlips",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinHeightDiff",
+            "request": "launch",
+            "mainClass": "MinHeightDiff",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveNegLeft",
+            "request": "launch",
+            "mainClass": "MoveNegLeft",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveZeroLeft",
+            "request": "launch",
+            "mainClass": "MoveZeroLeft",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NonRepeat",
+            "request": "launch",
+            "mainClass": "NonRepeat",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Painter",
+            "request": "launch",
+            "mainClass": "Painter",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Peak",
+            "request": "launch",
+            "mainClass": "Peak",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pivot",
+            "request": "launch",
+            "mainClass": "Pivot",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImpQueue",
+            "request": "launch",
+            "mainClass": "Queue.ImpQueue",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearch",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Recursion.BubbleSort",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckSorted",
+            "request": "launch",
+            "mainClass": "Recursion.CheckSorted",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch DigitalRoot",
+            "request": "launch",
+            "mainClass": "Recursion.DigitalRoot",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ElementSum",
+            "request": "launch",
+            "mainClass": "Recursion.ElementSum",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibo",
+            "request": "launch",
+            "mainClass": "Recursion.Fibo",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPower",
+            "request": "launch",
+            "mainClass": "Recursion.FindPower",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstOccurance(1)",
+            "request": "launch",
+            "mainClass": "Recursion.FirstOccurance",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Keypad",
+            "request": "launch",
+            "mainClass": "Recursion.Keypad",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "Recursion.LinearSearch",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutation",
+            "request": "launch",
+            "mainClass": "Recursion.Permutation",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "Recursion.QuickSort",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RatInMaze",
+            "request": "launch",
+            "mainClass": "Recursion.RatInMaze",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReachHome",
+            "request": "launch",
+            "mainClass": "Recursion.ReachHome",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReachStairs",
+            "request": "launch",
+            "mainClass": "Recursion.ReachStairs",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SayWords",
+            "request": "launch",
+            "mainClass": "Recursion.SayWords",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringReverse",
+            "request": "launch",
+            "mainClass": "Recursion.StringReverse",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubSequence",
+            "request": "launch",
+            "mainClass": "Recursion.SubSequence",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subset",
+            "request": "launch",
+            "mainClass": "Recursion.Subset",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrom",
+            "request": "launch",
+            "mainClass": "Recursion.palindrom",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursiveBinary",
+            "request": "launch",
+            "mainClass": "RecursiveBinary",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseKSubArray",
+            "request": "launch",
+            "mainClass": "ReverseKSubArray",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseS",
+            "request": "launch",
+            "mainClass": "ReverseS",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseSentence",
+            "request": "launch",
+            "mainClass": "ReverseSentence",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseWords",
+            "request": "launch",
+            "mainClass": "ReverseWords",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "Search",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search2",
+            "request": "launch",
+            "mainClass": "Search2",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecondLargest",
+            "request": "launch",
+            "mainClass": "SecondLargest",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smax",
+            "request": "launch",
+            "mainClass": "Smax",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort012",
+            "request": "launch",
+            "mainClass": "Sort012",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Heap",
+            "request": "launch",
+            "mainClass": "Sorting.Heap",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hoare",
+            "request": "launch",
+            "mainClass": "Sorting.Hoare",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertion",
+            "request": "launch",
+            "mainClass": "Sorting.Insertion",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lomuto",
+            "request": "launch",
+            "mainClass": "Sorting.Lomuto",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge",
+            "request": "launch",
+            "mainClass": "Sorting.Merge",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection",
+            "request": "launch",
+            "mainClass": "Sorting.Selection",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StockBuyAndSale",
+            "request": "launch",
+            "mainClass": "StockBuyAndSale",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrapW",
+            "request": "launch",
+            "mainClass": "TrapW",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImpTree",
+            "request": "launch",
+            "mainClass": "Tree.ImpTree",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnionAndInt",
+            "request": "launch",
+            "mainClass": "UnionAndInt",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidWord",
+            "request": "launch",
+            "mainClass": "ValidWord",
+            "projectName": "DS&Algo_12edf60f"
+        }
+    ]
+}
