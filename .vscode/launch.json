@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LargestRectangularArea",
+            "request": "launch",
+            "mainClass": "LargestRectangularArea",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextSmallerElement",
+            "request": "launch",
+            "mainClass": "NextSmallerElement",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RedudentBrackets",
+            "request": "launch",
+            "mainClass": "RedudentBrackets",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursiveReverseStack",
+            "request": "launch",
+            "mainClass": "RecursiveReverseStack",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertAtBottom",
+            "request": "launch",
+            "mainClass": "InsertAtBottom",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalancedParentheis",
+            "request": "launch",
+            "mainClass": "BalancedParentheis",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoStackArray",
+            "request": "launch",
+            "mainClass": "TwoStackArray",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListStack",
+            "request": "launch",
+            "mainClass": "LinkedListStack",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListStack",
+            "request": "launch",
+            "mainClass": "ArrayListStack",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionStack",
+            "request": "launch",
+            "mainClass": "CollectionStack",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
             "name": "Launch Flatten",
             "request": "launch",
             "mainClass": "Flatten",
