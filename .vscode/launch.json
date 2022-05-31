@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxRectangleMatrix",
+            "request": "launch",
+            "mainClass": "MaxRectangleMatrix",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CelebrityProblem",
+            "request": "launch",
+            "mainClass": "CelebrityProblem",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
             "name": "Launch LargestRectangularArea",
             "request": "launch",
             "mainClass": "LargestRectangularArea",
