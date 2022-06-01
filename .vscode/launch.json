@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BalancedParentheses",
+            "request": "launch",
+            "mainClass": "BalancedParentheses",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortStack",
+            "request": "launch",
+            "mainClass": "SortStack",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextLargerElement",
+            "request": "launch",
+            "mainClass": "NextLargerElement",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
             "name": "Launch MaxRectangleMatrix",
             "request": "launch",
             "mainClass": "MaxRectangleMatrix",

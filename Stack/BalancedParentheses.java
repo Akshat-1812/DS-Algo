@@ -62,7 +62,7 @@ public class BalancedParentheses
     {
         // String s1 = "[({})]";
         // String s1 = "{}([)()]";
-        String s1 = "{()";
+        String s1 = "[({[([{}])]})}";
 
         boolean res = isBalanced(s1);
 
