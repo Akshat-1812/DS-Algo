@@ -50,8 +50,10 @@ import java.util.*;
     
 // }
 
+@SuppressWarnings("WatchSol")
 public class WatchSol
 {
+    @SuppressWarnings("watchId")
     private int watchId;
     private String watchName;
     private double price;
