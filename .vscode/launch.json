@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RemoveConsecutive2",
+            "request": "launch",
+            "mainClass": "RemoveConsecutive2",
+            "projectName": "DS&Algo_12edf60f"
+        },
+        {
+            "type": "java",
             "name": "Launch BalancedParentheses",
             "request": "launch",
             "mainClass": "BalancedParentheses",
